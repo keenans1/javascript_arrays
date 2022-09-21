@@ -21,3 +21,7 @@ years.pop();
 // the new array is now var values = [true, false, false];
 //notice that the first true is gone
 values.shift();
+
+// index positions are basically the computers way of counting in an array or list
+// the first element is ALWAYS 0
+// in the case of our fish array: trout is 0, salmon is 1, halibut is 2, and nemo is 3
